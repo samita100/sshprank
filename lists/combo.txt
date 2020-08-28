@@ -1,6 +1,0 @@
-admin:admin
-root:r00t
-root:root
-test:test
-toor:t00r
-toor:toor
