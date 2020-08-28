@@ -1,0 +1,17 @@
+root:root
+root:12345
+admin:admin
+administrator:administrator
+phpmy:phpmy
+mailman:mailman
+console:console
+administrator:admin
+China:(CN)
+testuser:testuser
+admin:password
+test:test
+root:@#$%^&*!
+ftpuser:test123
+webmaster:123456
+apache:apache
+default:default
